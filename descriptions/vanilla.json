@@ -350,6 +350,7 @@
   "shocker": "Gives off sparks when shocked.",
   "pressure_plate": "Gets powered when pixels are on top of it.",
   "random": "Creates a random pixel.",
+  "image": "Allows you to upload any image into Sandboxels!",
   "unpaint": "Removes paint from pixels.",
   "uncharge": "Removes electric charge.",
   "unburn": "Removes fire & burning.",
